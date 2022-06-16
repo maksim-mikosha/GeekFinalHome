@@ -18,7 +18,7 @@
 
   5. <p>Вывод на экран заполненного массива.</p>
 
-  <img src="FinalHomeWork.jpg" alt="Блок схема">
+  <img src="img/FinalHomeWork.jpg" alt="Блок схема">
 
 ### **Комментарии к готовому коду**
 
